@@ -18,7 +18,7 @@ Aditya_Sadavarte_A3.zip
 Please follow these steps:
 
 1. Download Zip File.
-2. Extract zip file.
+2. Extract zip file in a folder.
 3. Open 'Snake Workspace' in Visual Studio Code.
 4. Go to index.html
 5. Right Click, select : 'Open with Live Server'
