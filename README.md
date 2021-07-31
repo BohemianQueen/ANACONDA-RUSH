@@ -1,6 +1,5 @@
 # ANACONDA RUSH
-
-This is a snake game inspired by NOKIA's retro snake rush game. I coded it for Vivek's Javascript class at Srishti Institue of Art, Design and Technology.
+This code is a part of an assignment for Vivek's Javascript class at Srishti Institue of Art, Design and Technology.
 
 The zip file includes code for the snake game: ANACONDA RUSH - Queen of Amazon. 
 
