@@ -6,10 +6,10 @@ The zip file includes code for the snake game: ANACONDA RUSH - Queen of Amazon.
 
 ## Installation
 
-Download the zip file [Aditya_Sadavarte_A3.zip]
+Download the zip file 
 
 ```bash
-Download Zip file
+Aditya_Sadavarte_A3.zip
 ```
 
 ## Usage
